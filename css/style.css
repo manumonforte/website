@@ -681,7 +681,7 @@ a:hover {
 }
 
 .about-mf .about-img img {
-  margin-left: 10px;
+  margin-left: 9px;
 }
 
 .skill-mf span {
@@ -697,7 +697,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: .7rem;
-  background-color: #0078ff;
+  background-color: #0078ff ;
 }
 
 /*======================================
